@@ -9,11 +9,8 @@ export default function Home() {
       <h1>The best fried chicken in the world!</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
+        <img src="Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Chicken" width="500" height="600">
+        
       </p>
     </main>
   );
