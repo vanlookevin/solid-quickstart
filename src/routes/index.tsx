@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Lex Fried chicken</Title>
+      <h1>Lex fried chicken!</h1>
       <h1>The best fried chicken in the world!</h1>
       <Counter />
       <p>
