@@ -11,7 +11,7 @@ export default function Home() {
             <p>/workspaces/solid-quickstart/Fried-Chicken-Tenders-Recipe-for-Two-11.jpg
             Fried-Chicken-Tenders-Recipe-for-Two-11.jpg
             <img src="/workspaces/solid-quickstart/Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Ararat mountain" width="256" height="256"></img>
-            <img src="/Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Ararat mountain" width="256" height="256"></img>
+            <img src="Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Ararat mountain" width="256" height="256"></img>
        
         
 
