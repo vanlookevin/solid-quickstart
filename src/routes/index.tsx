@@ -7,10 +7,10 @@ export default function Home() {
       <Title>Lex Fried chicken</Title>
       <h1>Lex fried chicken!</h1>
       <h1>The best fried chicken in the world!</h1>
-      <Counter />
-      <p>
+      
+            <p>
 =======
-        <img src="Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Chicken" width="500" height="600">
+       
         
 
       </p>
