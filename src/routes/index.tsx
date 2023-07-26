@@ -9,8 +9,8 @@ export default function Home() {
       <h1>The best fried chicken in the world!</h1>
       
             <div>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fchicken-strips&psig=AOvVaw0thu7Lkpc9s3--uAzWOE19&ust=1690453321449000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICkmYCTrIADFQAAAAAdAAAAABAE" alt="Ararat mountain" width="256" height="256"></img>
-            <img src="Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Ararat mountain" width="256" height="256"></img>
+            
+            <img src="https://media.istockphoto.com/id/162890885/photo/organic-crispy-chicken-strips.jpg?s=612x612&w=0&k=20&c=HvVCD6xjZf0epcVEOUJ9iaDdNLtKRYvkcRqI5MJP2XA=" alt="Ararat mountain" width="256" height="256"></img>
        
         
 
