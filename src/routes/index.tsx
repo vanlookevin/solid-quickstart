@@ -9,8 +9,10 @@ export default function Home() {
       <h1>The best fried chicken in the world!</h1>
       <Counter />
       <p>
+=======
         <img src="Fried-Chicken-Tenders-Recipe-for-Two-11.jpg" alt="Chicken" width="500" height="600">
         
+
       </p>
     </main>
   );
